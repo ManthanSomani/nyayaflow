@@ -1,0 +1,5 @@
+{
+  "name": "NyayaFlow - AI Court Scheduling & ODR",
+  "description": "An intelligent court case scheduling system for Indian district courts that predicts case outcomes, optimizes hearing schedules, and streamlines dispute resolution through AI.",
+  "requestFramePermissions": []
+}
